@@ -1,0 +1,150 @@
+  950  python manage.py runserver
+  951  git init
+  952  sudo apt install git
+  953  git init
+  954  git add README.md
+  955  cd mysite
+  956  git init
+  957  git add.
+  958  git add .
+  959  git commit -m "pehla commit"
+  960  git config --global user.email "avenash.r15@iiits.in"
+  961  git config --global user.name "avenash1997"
+  962  git commit -m "pehla commit"
+  963  git remote add origin https://github.com/avenash1997/Django--Tut-1.git
+  964  git push -u origin master
+  965  git init
+  966  git add .
+  967  git config --global user.name "yoshitha12"
+  968  git config --global user.email "saiyoshitha.g15@iiits.in"
+  969  git commit -m "pehla commit"
+  970  git remote add origin https://github.com/yoshitha12/Django--Tut-1.git
+  971  git push -u origin master
+  972  ssh avenash@10.03.21 -p 2222
+  973  ssh avenash@10.0.3.21 -p 2222
+  974  sudo modprobe -rv rtl8723be
+  975  sudo modprobe -v rtl8723be ant_sel=1
+  976  sudo tee /etc/modprobe.d/rtl8723be.conf <<< "options rtl8723be ant_sel=1"
+  977  python3 knn.py
+  978  pip install numpy
+  979  python3 knn.py
+  980  pip3 install numpy
+  981  python3 knn.py
+  982  pip3 install scipy
+  983  python3 knn.py
+  984  cd
+  985  ssh avenash@10.0.3.21 -p 2222
+  986  python3 knn.py
+  987  python3 updateddcnn.py
+  988  python dcnn.py
+  989  python Dcnn.py
+  990  python newcnn.py
+  991  cd Desktop/
+  992  cd tutorials/
+  993  git init
+  994  git add .
+  995  git commit -m "First commit"
+  996  echo "# REST" >> README.md
+  997  git add README.md
+  998  git commit -m "first commit"
+  999  git remote add origin git@github.com:yoshitha12/REST.git
+ 1000  git push -u origin master
+ 1001  cd REST
+ 1002  git init
+ 1003  echo "# restapi" >> README.md
+ 1004  git add README.md
+ 1005  git commit -m "first commit"
+ 1006  git remote add origin git@github.com:yoshitha12/restapi.git
+ 1007  git push -u origin master
+ 1008  git init
+ 1009  git add .
+ 1010  git push -u origin master
+ 1011  git init
+ 1012  git push -u origin master
+ 1013  git remote add origin git@github.com:yoshitha12/restapi.git
+ 1014  git rm origin
+ 1015  git rm remote origin
+ 1016  git remote rm
+ 1017  git remote remove origin
+ 1018  git remote add origin git@github.com:yoshitha12/restapi.git
+ 1019  python manage.py runserver
+ 1020  pip install djangorestframework
+ 1021  pip install markdown
+ 1022  pip install django-filter
+ 1023  python manage.py runserver
+ 1024  cd
+ 1025  pactl -- set-sink-volume 0 150%
+ 1026  exit 0
+ 1027  sudo apt-get update
+ 1028  sublime
+ 1029  sudo apt-get install sublime-text
+ 1030  ls
+ 1031  python assihn2.py 
+ 1032  python3 assihn2.py 
+ 1033  pip3 install tensorflow
+ 1034  python3 assihn2.py 
+ 1035  python3 assi2.py 
+ 1036  cd Desktop/
+ 1037  virtualenv venvs
+ 1038  source venvs/bin/activate
+ 1039  cd annapurnaserver/
+ 1040* pip install -r requirements.txt
+ 1041  heroku local web
+ 1042  python manage.py makemigrations
+ 1043  python manage.py migrate
+ 1044  heroku local web
+ 1045  python manage.py createsuperuser
+ 1046  heroku local web
+ 1047  git add .
+ 1048  git commit -m "Added a Procfile".
+ 1049  heroku login
+ 1050  heroku create
+ 1051  git remote rm heroku
+ 1052  heroku git:remote -a annapurnaserver
+ 1053  git push heroku master
+ 1054  git remote -v
+ 1055  git add .
+ 1056  git commit -m "Added a Procfile".
+ 1057  git push heroku master
+ 1058  git add .
+ 1059  heroku create
+ 1060  git remote -v
+ 1061  git remote rm heroku
+ 1062  heroku git:remote -a annapurnaserver
+ 1063  heroku create
+ 1064  git remote rm heroku
+ 1065  heroku git:remote -a annapurnaserver
+ 1066  git add .
+ 1067  git commit -m 'Hi'
+ 1068  git push heroku master
+ 1069  git init
+ 1070  git add .
+ 1071  git commit -m 'j'
+ 1072  git push heroku master
+ 1073  heroku git:remote -a annapurnaserver
+ 1074  git push heroku master
+ 1075  ls
+ 1076  cd annapurnaserver/
+ 1077  ls
+ 1078  cd static/
+ 1079  vim .test
+ 1080  cd annapurnaserver/cd..
+ 1081  cd ..
+ 1082  git add .
+ 1083  git commit -m 'fuck'
+ 1084  git push heroku master
+ 1085  git add .
+ 1086  git commit -m 'fuck'
+ 1087  git push heroku master
+ 1088  heroku run python manage.py makemigrations
+ 1089  heroku run python manage.py migrate
+ 1090  heroku run python manage.py createsuperuser
+ 1091  git add .
+ 1092  git commit -m 'fuck'
+ 1093  git push heroku master
+ 1094  git add .
+ 1095  git commit -m 'fuck'
+ 1096  git push heroku master
+ 1097  heroku ps:scale web=0
+ 1098  history 50
+ 1099  history 150 > cmd_hstryserver.txt

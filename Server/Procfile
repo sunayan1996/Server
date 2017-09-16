@@ -1,0 +1,1 @@
+web: gunicorn annapurnaserver.wsgi --log-file -
